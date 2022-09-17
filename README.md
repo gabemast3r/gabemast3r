@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gabemast3r
+- 👀 I’m interested in Mathematics and Programming
+- 🌱 I’m currently learning OOP in Python.
